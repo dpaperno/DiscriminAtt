@@ -25,8 +25,8 @@ def f1_score(evaluation):
         recall=float(tp)/(tp+fn)
         f1_positives = 2*((precision*recall)/(precision+recall))
     if tn>0:
-        precision=float(tp)/(tp+fp)
-        recall=float(tp)/(tp+fn)
+        precision=float(tn)/(tn+fn)
+        recall=float(tn)/(tn+fp)
         f1_negatives = 2*((precision*recall)/(precision+recall))
     if f1_positives and f1_negatives:
         f1_average = (f1_positives+f1_negatives)/2.0
