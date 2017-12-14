@@ -1015,7 +1015,7 @@ salt,oil,cook,0
 liquor,whiskey,alcohol,0
 salad,bacon,cold,1
 aircraft,dinners,drive,1
-material,paper,make?,0
+material,paper,make,0
 cantaloupe,lettuce,round,1
 snacks,breakfast,evening,1
 spear,armour,long,1
