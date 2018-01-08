@@ -20,6 +20,8 @@ def f1_score(evaluation):
                 fp = fp+1
             elif i[0] != i[1] and i[1] == 0: 
                 fn = fn+1
+    f1_positives = 0.0
+    f1_negatives = 0.0
     if tp>0:
         precision=float(tp)/(tp+fp)
         recall=float(tp)/(tp+fn)
