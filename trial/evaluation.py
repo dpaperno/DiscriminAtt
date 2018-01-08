@@ -47,43 +47,47 @@ if not os.path.exists(submission_path):
     message = "Expected submission file '{0}', found files {1}"
     sys.exit(message.format(submission_file_name, os.listdir(submission_dir)))
 evaluation = {}
-with open(submission_path) as submission_file:
-    reader = csv.reader(submission_file)
-    i = 0
-    for row in reader:
-        if len(row) != 4:
-            message = "Submission file has row of length "+str(len(row))+", len 3 needed."
-            sys.exit(message)
-        i = i+1
-        if type(int(row[3])) != int:
-            message = "Value is not of type int."
-            sys.exit(message)
-        a = int(row[3])
-        evaluation[i] = [a]
 
 # unzipped reference data is always in the 'ref' subdirectory
 # https://github.com/codalab/codalab-competitions/wiki/User_Building-a-Scoring-Program-for-a-Competition#directory-structure-for-submissions
 with open(os.path.join(input_dir, 'ref', 'truth.txt')) as truth_file:
     reader = csv.reader(truth_file)
-    i = 0
     for row in reader:
         if len(row) != 4:
             message = "Truth file has row of length "+str(len(row))+", len 3 needed."
             sys.exit(message)
-        i = i+1
         if type(int(row[3])) != int:
             message = "Value is not of type int."
             sys.exit(message)
-        a = int(row[3])
-        evaluation[i].append(a)
+        k = ','.join(row[:3])
+        print(k)
+        v = [int(row[3])]
+        evaluation[k] = v
+
+with open(submission_path) as submission_file:
+    reader = csv.reader(submission_file)
+    for row in reader:
+        if len(row) != 4:
+            message = "Submission file has row of length "+str(len(row))+", len 3 needed."
+            sys.exit(message)
+        if type(int(row[3])) != int:
+            message = "Value is not of type int."
+            sys.exit(message)
+        k = ','.join(row[:3])
+        if k not in evaluation.keys():
+            message = "Entry "+k+" does not exist in reference file."
+            sys.exit(message)
+        else:
+            v = int(row[3])
+            evaluation[k].append(v)
 
 if not evaluation:
     message = "evaluation empty"
     sys.exit(message)
 
-for v in evaluation.values():
+for k,v in evaluation.items():
     if len(v) != 2:
-        message = "Length of value must 2."
+        message = "Entry "+k+" is missing in submission file."
         sys.exit(message)
 
 # the scores for the leaderboard must be in a file named "scores.txt"
