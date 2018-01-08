@@ -1,0 +1,1 @@
+This directory contains the 2340 test triples of the Capturing Discriminative Attributes competition. Note that there is no overlap between features in the validation, training, and test sets. (The feature is the third element of the triple.)
