@@ -151,7 +151,6 @@ basement,brick,stairways,1
 spinach,pepper,quills,0
 spoon,dish,lid,0
 scarf,robe,cocoons,0
-tuba,saxophone,gold,1
 elk,goat,pearls,0
 salamander,turtle,smart,0
 dagger,knife,ponds,0
@@ -390,7 +389,6 @@ pen,mouse,thin,1
 beetle,butterfly,crawls,1
 rat,squirrel,garbage,1
 belt,trousers,climates,0
-rope,hose,braided,0
 ring,wheel,diamonds,1
 gate,wall,lock,1
 cupboard,oven,tops,0
@@ -562,7 +560,6 @@ hatchet,dagger,together,0
 pillow,bag,shoes,0
 pin,plate,thin,1
 shirt,socks,pockets,1
-nectarine,avocado,pit,1
 camel,gorilla,occasions,0
 guitar,trombone,brine,0
 bike,tractor,picked,0
@@ -627,7 +624,6 @@ gloves,coat,leisure,0
 mackerel,lobster,fins,1
 bison,camel,herds,1
 cranberry,banana,bits,0
-crocodile,hyena,animals,1
 mixer,tap,tricks,0
 potato,pepper,animals,0
 flute,trumpet,thin,1
@@ -1807,7 +1803,6 @@ crab,peas,sideways,1
 duck,pigeon,waddles,1
 radio,microwave,clowns,0
 trolley,truck,detergent,0
-nectarine,peach,pit,1
 giraffe,hyena,rough,0
 peas,cabbage,inexpensive,0
 elephant,squirrel,tusks,1
@@ -1824,7 +1819,6 @@ strainer,sink,turtle,0
 buggy,tractor,lions,0
 kite,falcon,tracks,0
 sweater,trousers,sleeves,1
-walrus,seal,tusks,0
 cucumber,parsley,seeds,1
 skirt,shawl,certifying,0
 mug,kettle,patterns,1
@@ -2223,7 +2217,6 @@ pot,spoon,bee,0
 camel,horse,humps,1
 lemon,pepper,blocks,0
 pear,nectarine,shaped,0
-nectarine,prune,pit,1
 mug,bottle,curved,0
 tank,rocket,guns,1
 axe,rope,kings,0
@@ -2250,7 +2243,6 @@ sofa,curtains,armrests,1
 eggplant,beets,purple,0
 crab,chicken,bedrooms,0
 ship,yacht,in,0
-nectarine,prune,pit,0
 hammer,dagger,nests,0
 fridge,sink,electrical,1
 prune,grapefruit,killed,0
@@ -2416,7 +2408,6 @@ perch,mackerel,fins,0
 rice,parsley,scalping,0
 rattlesnake,alligator,slithers,1
 asparagus,avocado,curtains,0
-shirt,coat,sleeves,1
 vest,scarf,zipper,1
 olive,potato,beach,0
 toad,hamster,flies,1
@@ -3093,7 +3084,6 @@ oriole,woodpecker,flies,0
 taxi,limousine,talons,0
 grenade,rifle,captains,0
 camel,sheep,ears,0
-jar,bottle,lid,1
 ambulance,limousine,beds,0
 radish,tomato,stains,0
 faucet,toilet,controls,1
@@ -3597,7 +3587,6 @@ orange,garlic,seeds,1
 bull,horse,wire,0
 tray,cupboard,bottles,0
 hawk,eagle,caught,0
-tuba,trombone,gold,1
 rope,belt,beer,0
 mittens,pants,bananas,0
 truck,tank,weeding,0
@@ -5000,7 +4989,6 @@ wasp,beetle,expands,0
 blouse,shirt,sleeves,0
 chisel,hammer,hotel,0
 brush,carpet,bristles,1
-shirt,jacket,sleeves,1
 bench,wall,easily,0
 seaweed,squid,boards,0
 giraffe,buffalo,wobbles,0
@@ -5257,7 +5245,6 @@ tractor,airplane,slow,1
 dog,sheep,dropping,0
 armour,shield,beaches,0
 snail,toad,terrorism,0
-nectarine,plum,pit,1
 willow,walnut,down,1
 trout,crab,gills,1
 goat,asparagus,waves,0
@@ -5395,7 +5382,6 @@ flamingo,stork,occasions,0
 ant,flea,crawls,1
 clam,tuna,breaks,0
 pencil,scissors,parks,0
-crocodile,squirrel,animals,0
 tortoise,turtle,t-shirt,0
 panther,gorilla,iceberg,0
 asparagus,peas,knights,0
@@ -6152,7 +6138,6 @@ chisel,pencil,bolts,0
 bison,deer,torture,0
 lobster,tomato,claws,1
 pine,coconut,detergent,0
-walrus,elephant,tusks,1
 shoes,jacket,heels,1
 sweater,skirt,cork,0
 hammer,hook,common,0
@@ -6781,7 +6766,6 @@ cellar,closet,inexpensive,0
 crowbar,chisel,ships,0
 curtains,skirt,triangular,0
 squid,salmon,achievements,0
-elephant,rabbit,ears,0
 blouse,jeans,sleeves,1
 inn,church,piece,0
 porcupine,hare,slow,1
@@ -6898,7 +6882,6 @@ helmet,shield,jumping,0
 boat,ship,sails,0
 drill,screwdriver,bits,1
 drill,bolts,bits,1
-blender,mixer,blades,1
 brush,stick,explosive,0
 brush,knife,radiation,0
 vest,blouse,relaxing,0
@@ -7157,7 +7140,6 @@ taxi,boat,smooth,0
 whale,octopus,stairs,0
 pumpkin,asparagus,shepherds,0
 taxi,ambulance,reptile,0
-blender,mixer,blades,0
 goose,duck,flies,0
 cupboard,sink,handles,1
 banner,shield,herb,0
@@ -7898,7 +7880,6 @@ cannon,rocket,torture,0
 orange,apple,peanuts,0
 elephant,whale,ears,1
 gate,chapel,liquids,0
-tuba,trumpet,gold,1
 apartment,house,bedrooms,0
 falcon,buzzard,rodents,1
 bolts,clamp,racing,0
@@ -8589,7 +8570,6 @@ rat,toad,dimples,0
 machete,spear,dishes,0
 hyena,elk,ironing,0
 bottle,spoon,vicious,0
-octopus,shrimp,cups,1
 scarf,gown,colourful,1
 carpet,trousers,crows,0
 rattlesnake,snail,slithers,1
@@ -9458,7 +9438,6 @@ trombone,harp,hat,0
 beans,parsley,farms,0
 shed,cottage,fires,0
 chain,belt,enamel,0
-elephant,dog,ears,1
 screwdriver,pliers,heads,1
 emerald,bracelet,carving,0
 pumpkin,asparagus,seeds,1
@@ -9637,7 +9616,6 @@ robe,curtains,materials,1
 napkin,scarf,weddings,0
 broom,spade,straw,1
 eagle,hawk,claws,0
-jar,pot,lid,1
 rocket,parsley,flies,1
 cloak,skirt,spanish,0
 gun,knife,dial,0
@@ -9831,7 +9809,6 @@ grater,spoon,holes,1
 panther,falcon,cucumber,0
 brush,tray,cans,0
 spinach,carrot,restaurants,0
-elephant,donkey,ears,0
 jeans,vest,pockets,1
 lamp,lantern,switch,1
 squid,octopus,ink,0
@@ -10442,7 +10419,6 @@ trumpet,banjo,gold,1
 corn,pumpkin,kernels,1
 rattlesnake,turtle,sympathy,0
 napkin,cushion,square,0
-wheelbarrow,cart,handles,1
 gate,fence,latch,1
 prune,peach,seeds,1
 board,chair,dogs,0
@@ -10585,7 +10561,6 @@ sparrow,hawk,flies,0
 pistol,grenade,trigger,1
 squirrel,cat,nuts,1
 celery,spinach,tricks,0
-elephant,donkey,ears,1
 bow,sword,sizes,1
 clam,eel,learning,0
 nectarine,grapefruit,tart,0
@@ -10609,7 +10584,6 @@ armour,gun,rent,0
 mixer,faucet,bowls,1
 pepper,parsley,skirts,0
 orange,pepper,seeds,1
-shirt,blouse,sleeves,1
 flute,piano,feline,0
 lion,dog,firemen,0
 harp,bagpipe,summer,0
@@ -11026,18 +11000,15 @@ lamp,projector,sidewalks,0
 ladle,tongs,fades,0
 trousers,sweater,buttons,1
 camisole,dress,lace,1
-elephant,dog,ears,0
 mink,deer,common,0
 elephant,walrus,ears,1
 turtle,duck,slow,1
 corn,cabbage,ears,1
-rifle,cannon,barrel,1
 ostrich,goat,dishes,0
 duck,pig,flies,1
 calf,sheep,grooming,0
 cage,hamster,lock,1
 peach,plum,queens,0
-coat,pants,zipper,1
 cottage,church,navigate,0
 knife,tray,hotel,0
 bedroom,bed,television,0
@@ -11161,7 +11132,6 @@ trumpet,saxophone,valves,1
 jeans,skirt,breast,0
 asparagus,onions,whales,0
 pumpkin,tomato,mug,0
-shirt,sweater,sleeves,1
 screws,pin,carrots,0
 bedroom,bed,dresser,1
 ladle,strainer,pecks,0
@@ -11321,7 +11291,6 @@ chisel,hatchet,romaine,0
 apron,shawl,cloth,1
 elevator,door,fastening,0
 dish,pie,nocturnal,0
-avocado,spinach,seeds,1
 buggy,jeep,seats,1
 lamp,stove,cord,1
 pencil,scissors,graphite,1
@@ -11430,7 +11399,6 @@ prune,tomato,launched,0
 keyboard,banjo,beads,0
 spear,spade,winning,0
 duck,goose,waddles,1
-shirt,dress,sleeves,0
 mole,beaver,holes,1
 dagger,shield,spout,0
 church,chapel,alter,1
@@ -11678,7 +11646,6 @@ sardine,cod,cream,0
 hyena,zebra,seeds,0
 peach,raspberry,floor,0
 moose,goat,airplanes,0
-corn,pepper,ears,0
 chandelier,candle,crystal,1
 toaster,blender,games,0
 raven,finch,knights,0
@@ -11716,7 +11683,6 @@ coat,scarf,zipper,1
 inn,church,cheese,0
 cabinet,bookcase,handles,1
 bucket,spoon,advertisements,0
-crocodile,squirrel,animals,1
 clarinet,trombone,grip,0
 harmonica,keyboard,hooks,0
 bag,cushion,sizes,1
@@ -11962,7 +11928,6 @@ crab,chicken,plush,0
 apartment,cottage,bedroom,1
 crab,avocado,colouring,0
 trumpet,flute,gold,1
-camisole,bra,straps,1
 boat,truck,buttons,0
 bottle,jar,cork,1
 cheetah,giraffe,symbol,0
@@ -12115,7 +12080,6 @@ grapefruit,cranberry,pulp,1
 truck,crane,tying,0
 napkin,curtains,holes,0
 grapefruit,pear,sections,1
-ox,moose,grass,1
 eagle,hawk,bald,1
 bookcase,desk,shelves,1
 cherry,blueberry,pit,1
@@ -13114,7 +13078,6 @@ frog,crab,flies,1
 strawberry,raspberry,washing,0
 raven,crane,flies,1
 apple,raspberry,seeds,0
-elephant,rabbit,ears,1
 garlic,carrot,cloves,1
 lime,cheese,seeds,1
 machete,dagger,cows,0
@@ -13222,7 +13185,6 @@ rabbit,sheep,lace,0
 brush,paintbrush,bristles,0
 skillet,ladle,bands,0
 corn,broccoli,sounds,0
-shoes,boots,heels,1
 axe,chisel,fluffy,0
 machete,knife,parties,0
 taxi,car,disease,0
@@ -13633,7 +13595,6 @@ balloon,airplane,floats,1
 rhubarb,cabbage,bag,0
 hook,peg,husks,0
 chisel,hammer,floors,0
-magazine,book,pages,1
 worm,flea,good,0
 chipmunk,squirrel,chords,0
 trolley,wheelbarrow,thumbs,0
@@ -13797,7 +13758,6 @@ tricycle,buggy,bars,1
 squirrel,skunk,radio,0
 toaster,blender,plug,1
 plum,cucumber,enclosing,0
-nectarine,cherry,pit,1
 pants,jeans,ponds,0
 eagle,deer,claws,1
 leopard,zebra,spots,1
@@ -13961,7 +13921,6 @@ tie,blouse,vines,0
 corn,bread,casual,0
 pants,vest,pockets,1
 snail,spider,antennae,1
-hawk,goose,mice,0
 sleigh,buggy,presents,0
 brush,pencil,bursts,0
 closet,freezer,bars,1
@@ -14058,7 +14017,6 @@ spider,cat,crawls,1
 rattlesnake,salamander,rind,0
 owl,woodpecker,snakes,0
 corn,garlic,stalks,1
-shirt,dress,sleeves,1
 tuna,chicken,worn,0
 tent,trousers,zippers,0
 pepper,lemon,ground,0
@@ -14995,7 +14953,6 @@ rooster,alligator,comb,1
 elephant,dog,trunk,1
 bike,wheel,frame,1
 colander,spoon,holes,1
-nectarine,cherry,pit,0
 spatula,chisel,rubber,1
 microwave,toaster,sewers,0
 swan,crane,sticky,0
@@ -15657,7 +15614,6 @@ beaver,caribou,engraved,0
 falcon,dove,fired,0
 lime,cheese,holes,0
 tortoise,leopard,axe,0
-crocodile,elk,animals,0
 nightgown,robe,silk,1
 wall,fence,root,0
 bed,pillow,mattress,1
@@ -16166,7 +16122,6 @@ coat,gown,sleeves,1
 whale,walrus,blubber,1
 lemon,raspberry,oval,1
 cart,buggy,logs,0
-crocodile,elk,animals,1
 rocket,missile,flies,1
 orange,pineapple,walking,0
 balloon,helicopter,rubber,1
@@ -16745,7 +16700,6 @@ freezer,fridge,breakable,0
 jacket,scarf,thieves,0
 worm,snail,slithers,1
 pot,tray,lid,1
-alligator,elephant,scales,0
 crow,raven,sounds,0
 pants,gloves,materials,1
 turtle,owl,slow,1
