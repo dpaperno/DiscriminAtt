@@ -5,12 +5,10 @@ import os.path
 import csv
 
 def f1_score(evaluation):
-
     tp = 0
     tn = 0
     fp = 0
     fn = 0
-
     for i in evaluation.values():
             if i[0] == i[1] and i[1] == 1: 
                 tp = tp+1
@@ -89,7 +87,10 @@ if not evaluation:
 
 for k,v in evaluation.items():
     if len(v) != 2:
-        message = "Entry "+k+" is missing in submission file."
+	if len(v)<2:
+            message = "Entry "+k+" is missing in submission file."
+	elif len(v)>2:
+            message = "Entry "+k+" has duplicate entries in submission file."
         sys.exit(message)
 
 # the scores for the leaderboard must be in a file named "scores.txt"
